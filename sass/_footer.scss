@@ -1,0 +1,22 @@
+/* footer */
+$color: #ffffff;
+$font-size: 12px;
+footer {
+	width: 951px;
+	height: 60px;
+	background-color: #939ba1;
+    font-size: $font-size;
+    color: $color;
+    
+    p {
+        padding: 12px;
+    }
+
+    a {
+        color: white;
+    }
+
+    span {
+        float: right;
+    }
+}

@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#wrapper {
+  margin: 0 auto;
+  width: 951px; }
+
+/* footer */
+footer {
+  width: 951px;
+  height: 60px;
+  background-color: #939ba1;
+  font-size: 12px;
+  color: #ffffff; }
+  footer p {
+    padding: 12px; }
+  footer a {
+    color: white; }
+  footer span {
+    float: right; }
+
+/*# sourceMappingURL=style.css.map */
