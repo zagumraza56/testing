@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    width: 951px;
+    margin: 0 auto;
+
+    header {
+        border-bottom: solid 1px #A1A8AE;
+        overflow: hidden;
+        padding-top: 27px;
+        padding-bottom: 21px;
+
+        #logo {
+            width: 108px;
+            height: 123px;
+            float: left;
+
+            a {
+                width: 108px;
+                height: 123px;
+                background: url(../images/logo.png);
+                display: block;
+                text-indent: -9000px;
+            }
+        }
+
+        #banner {
+            float: right;
+        }
+    }
+}
+    
